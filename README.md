@@ -1,2 +1,3 @@
-Pokedex
-App sencilla en donde hacemos uso de la API de Pokemon https://pokeapi.co/
+# Pokedex
+
+Pokedex es una App sencilla en donde hacemos uso de la API de https://pokeapi.co/ 
